@@ -1,5 +1,4 @@
 
-
 public class Main{
     static void main() {
         /* An Array is a collection of data of same type.
