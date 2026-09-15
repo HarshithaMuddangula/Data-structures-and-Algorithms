@@ -37,7 +37,7 @@ public class Input02 {
 
         // modify an array
         str[1] = "lily";
-        System.out.println(Arrays.toString(str));
+        System.out.println(Arrays.toString(str));   //[q, lily, r, r]
 
 
     }
